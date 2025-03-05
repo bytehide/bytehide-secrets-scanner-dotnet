@@ -4,6 +4,11 @@
 
 **Bytehide.Secrets.Scanner** is a lightweight, powerful secret detection tool for .NET projects. It integrates directly into your build process to scan and protect your code from accidentally exposing sensitive data such as API keys, tokens, and passwords. It goes beyond traditional scanners by also analyzing your **post-compilation binaries** and offering advanced AI-based detection (in its advanced version) with a secure, zero-knowledge approach.
 
+[![NuGet](https://img.shields.io/nuget/v/Bytehide.Secrets.Scanner.svg?style=flat-square)](https://www.nuget.org/packages/Bytehide.Secrets.Scanner/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Bytehide.Secrets.Scanner.svg?style=flat-square)](https://www.nuget.org/packages/Bytehide.Secrets.Scanner/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square)](https://github.com/ByteHide/bytehide-secrets-scanner-dotnet/blob/main/LICENSE)
+
+
 ---
 
 ## Important Security Notice
